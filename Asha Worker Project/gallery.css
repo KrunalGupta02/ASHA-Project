@@ -71,3 +71,13 @@
 .gallery img:hover {
   filter: blur(2px);
 }
+/* 
+.galbtn,
+.gallery:not(:hover) {
+  filter: blur(20px);
+} */
+
+/* .galbtn:hover,
+.gallery img:not(:hover) {
+  filter: blur(20px);
+} */
