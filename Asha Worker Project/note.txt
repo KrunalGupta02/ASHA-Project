@@ -1,0 +1,2 @@
+Dark pink : #C50D91
+Light Pink : #E363C0E5
